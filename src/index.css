@@ -18,8 +18,8 @@ body {
   }
 
   .square {
-    background: #fff;
-    border: 1px solid #999;
+    background: rgb(20, 194, 136);
+    border: 1px solid rgba(180, 31, 31, 0.827);
     float: left;
     font-size: 24px;
     font-weight: bold;
@@ -37,7 +37,7 @@ body {
   }
 
   .kbd-navigation .square:focus {
-    background: #ddd;
+    background: rgb(67, 20, 148);
   }
 
   .game {
